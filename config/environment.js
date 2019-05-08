@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'empress-blog',
       description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/ember.jpg',
 
       navigation: [{
         label: 'Home',
